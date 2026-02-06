@@ -17,7 +17,7 @@ The lab is organized into specialized modules:
 
 - algorithms: Efficient implementations of data structures and logic.
 - design_patterns: Practical examples of Creational, Structural, and Behavioral patterns (e.g., Factory, Observer, Singleton).
-- concurrency: High-performance code using `asyncio`, threading, and multiprocessing.
+- concurrency: High-performance code using asyncio, threading, and multiprocessing.
 - api_design: Clean RESTful patterns using frameworks like FastAPI or Flask.
 
 ---
