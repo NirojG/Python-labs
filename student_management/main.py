@@ -1,5 +1,5 @@
-from student_management.models import Student, Major
-from student_management.registry import StudentRegistry
+from models import Student, Major
+from registry import StudentRegistry
 
 def main():
     print("--- Initializing Student Registry ---")
